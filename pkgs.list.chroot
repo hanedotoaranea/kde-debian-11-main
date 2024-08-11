@@ -7,3 +7,7 @@ vlc
 plasma-workspace
 sddm
 xorg
+mesa-utils
+mesa-utils-extra
+plasma-workspace-wayland
+vulkan-tools
