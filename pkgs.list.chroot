@@ -2,8 +2,8 @@ dolphin
 konsole
 plasma-workspace
 plasma-workspace-wayland
-mesa-utils-extra
 sddm
+mesa-utils-extra
 firefox-esr
 firmware-linux
 vulkan-tools
