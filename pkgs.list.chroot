@@ -2,6 +2,8 @@ dolphin
 konsole
 plasma-workspace
 plasma-workspace-wayland
+mesa-utils
+mesa-utils-extra
 sddm
 vulkan-tools
 xorg
