@@ -1,6 +1,6 @@
-lb config -d bookworm \
+lb config -d bullseye \
           --debian-installer live \
-          --debian-installer-distribution bookworm \
+          --debian-installer-distribution bullseye \
           --debian-installer-gui true \
           --archive-areas "main contrib non-free" \
           --debootstrap-options "--variant=minbase" \
