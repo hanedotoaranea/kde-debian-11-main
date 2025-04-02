@@ -1,0 +1,2 @@
+Need to add user to group root in /etc/sudoers 
+user All=(ALL:ALL) ALL
