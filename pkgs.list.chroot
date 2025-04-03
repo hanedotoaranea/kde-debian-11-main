@@ -4,16 +4,12 @@ plasma-nm
 plasma-workspace
 plasma-workspace-wayland
 sddm
-mesa-utils-extra
 firefox-esr
 firmware-linux
-vulkan-tools
-xorg
 vlc
 kate
 nano
 pulseaudio
 htop
-sensors
 neofetch
 imv
