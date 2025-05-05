@@ -3,7 +3,6 @@ lb config \
     --arch amd64 \
     --distribution bookworm \
     --bootappend-live "components splash quiet" \
-    --iso-application "KDE Debian 12" \
     --iso-publisher "hanedotoaranea <https://github.com/hanedotoaranea>" \
     --iso-volume "KDE Debian 12" \
     --apt http \
