@@ -1,0 +1,13 @@
+lb config \
+    --debian-bookworm \
+    --arch amd64 \
+    --distribution bookworm \
+    --bootappend-live "components splash quiet" \
+    --iso-application "KDE Debian 12" \
+    --iso-publisher "hanedotoaranea <https://github.com/hanedotoaranea>" \
+    --iso-volume "KDE Debian 12" \
+    --apt http \
+    --mirror-bootstrap "http://deb.debian.org/debian" \
+    --mirror-chroot "http://deb.debian.org/debian" \
+    --security true \
+    --updates true 
